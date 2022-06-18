@@ -10,26 +10,6 @@
       "StackName": "amplify-dynamocxerr-dev-135100",
       "StackId": "arn:aws:cloudformation:us-east-1:038328242126:stack/amplify-dynamocxerr-dev-135100/9a9b4ef0-eedf-11ec-9ae9-0a187787b53f",
       "AmplifyAppId": "d6nqcfp0zd7p8"
-    },
-    "categories": {
-      "storage": {
-        "ImportDataModel1r4dmxuxnsjdl5kqnvyh5ovu5mqdev": {
-          "tableName": "ImportDataModel1-r4dmxuxnsjdl5kqnvyh5ovu5mq-dev",
-          "region": "us-east-1",
-          "arn": "arn:aws:dynamodb:us-east-1:038328242126:table/ImportDataModel1-r4dmxuxnsjdl5kqnvyh5ovu5mq-dev",
-          "streamArn": "arn:aws:dynamodb:us-east-1:038328242126:table/ImportDataModel1-r4dmxuxnsjdl5kqnvyh5ovu5mq-dev/stream/2022-06-18T08:40:54.678",
-          "partitionKeyName": "id",
-          "partitionKeyType": "S"
-        },
-        "ImportDataModel2r4dmxuxnsjdl5kqnvyh5ovu5mqdev": {
-          "tableName": "ImportDataModel2-r4dmxuxnsjdl5kqnvyh5ovu5mq-dev",
-          "region": "us-east-1",
-          "arn": "arn:aws:dynamodb:us-east-1:038328242126:table/ImportDataModel2-r4dmxuxnsjdl5kqnvyh5ovu5mq-dev",
-          "streamArn": "arn:aws:dynamodb:us-east-1:038328242126:table/ImportDataModel2-r4dmxuxnsjdl5kqnvyh5ovu5mq-dev/stream/2022-06-18T08:40:56.616",
-          "partitionKeyName": "id",
-          "partitionKeyType": "S"
-        }
-      }
     }
   }
 }
