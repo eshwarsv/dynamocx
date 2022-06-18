@@ -1,1 +1,16 @@
-{}
+{
+  "storage": {
+    "ImportDataModel1r4dmxuxnsjdl5kqnvyh5ovu5mqdev": {
+      "service": "DynamoDB",
+      "serviceType": "imported",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": []
+    },
+    "ImportDataModel2r4dmxuxnsjdl5kqnvyh5ovu5mqdev": {
+      "service": "DynamoDB",
+      "serviceType": "imported",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": []
+    }
+  }
+}
