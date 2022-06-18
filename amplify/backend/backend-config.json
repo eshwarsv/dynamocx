@@ -1,3 +1,16 @@
 {
-  "storage": {}
+  "storage": {
+    "Sample15txvvznfdnb6joscvhsykmvme4dev": {
+      "service": "DynamoDB",
+      "serviceType": "imported",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": []
+    },
+    "Sample25txvvznfdnb6joscvhsykmvme4dev": {
+      "service": "DynamoDB",
+      "serviceType": "imported",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": []
+    }
+  }
 }
