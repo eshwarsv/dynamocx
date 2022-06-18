@@ -1,3 +1,10 @@
 {
-  "storage": {}
+  "storage": {
+    "Sample1yhsgbg7jwvgkpp25lo3hgft3eadev": {
+      "service": "DynamoDB",
+      "serviceType": "imported",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": []
+    }
+  }
 }
