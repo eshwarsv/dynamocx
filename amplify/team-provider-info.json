@@ -14,16 +14,6 @@
     "categories": {
       "auth": {
         "dynamocxerrabef5d10": {}
-      },
-      "storage": {
-        "Sample1ll4wvhez3zbb3b6lwwkenb77sedev": {
-          "tableName": "Sample1-ll4wvhez3zbb3b6lwwkenb77se-dev",
-          "region": "us-east-1",
-          "arn": "arn:aws:dynamodb:us-east-1:038328242126:table/Sample1-ll4wvhez3zbb3b6lwwkenb77se-dev",
-          "streamArn": "arn:aws:dynamodb:us-east-1:038328242126:table/Sample1-ll4wvhez3zbb3b6lwwkenb77se-dev/stream/2022-06-21T05:45:36.516",
-          "partitionKeyName": "id",
-          "partitionKeyType": "S"
-        }
       }
     }
   }
