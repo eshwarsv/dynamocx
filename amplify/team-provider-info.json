@@ -12,20 +12,15 @@
       "AmplifyAppId": "d6nqcfp0zd7p8"
     },
     "categories": {
+      "auth": {
+        "dynamocxerrabef5d10": {}
+      },
       "storage": {
-        "Sample15txvvznfdnb6joscvhsykmvme4dev": {
-          "tableName": "Sample1-5txvvznfdnb6joscvhsykmvme4-dev",
+        "Sample1ll4wvhez3zbb3b6lwwkenb77sedev": {
+          "tableName": "Sample1-ll4wvhez3zbb3b6lwwkenb77se-dev",
           "region": "us-east-1",
-          "arn": "arn:aws:dynamodb:us-east-1:038328242126:table/Sample1-5txvvznfdnb6joscvhsykmvme4-dev",
-          "streamArn": "arn:aws:dynamodb:us-east-1:038328242126:table/Sample1-5txvvznfdnb6joscvhsykmvme4-dev/stream/2022-06-18T11:16:38.192",
-          "partitionKeyName": "id",
-          "partitionKeyType": "S"
-        },
-        "Sample25txvvznfdnb6joscvhsykmvme4dev": {
-          "tableName": "Sample2-5txvvznfdnb6joscvhsykmvme4-dev",
-          "region": "us-east-1",
-          "arn": "arn:aws:dynamodb:us-east-1:038328242126:table/Sample2-5txvvznfdnb6joscvhsykmvme4-dev",
-          "streamArn": "arn:aws:dynamodb:us-east-1:038328242126:table/Sample2-5txvvznfdnb6joscvhsykmvme4-dev/stream/2022-06-18T11:16:37.846",
+          "arn": "arn:aws:dynamodb:us-east-1:038328242126:table/Sample1-ll4wvhez3zbb3b6lwwkenb77se-dev",
+          "streamArn": "arn:aws:dynamodb:us-east-1:038328242126:table/Sample1-ll4wvhez3zbb3b6lwwkenb77se-dev/stream/2022-06-21T05:45:36.516",
           "partitionKeyName": "id",
           "partitionKeyType": "S"
         }

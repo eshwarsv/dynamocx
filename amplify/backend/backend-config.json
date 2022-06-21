@@ -1,16 +1,36 @@
 {
   "storage": {
-    "Sample15txvvznfdnb6joscvhsykmvme4dev": {
+    "Sample1ll4wvhez3zbb3b6lwwkenb77sedev": {
       "service": "DynamoDB",
       "serviceType": "imported",
       "providerPlugin": "awscloudformation",
       "dependsOn": []
-    },
-    "Sample25txvvznfdnb6joscvhsykmvme4dev": {
-      "service": "DynamoDB",
-      "serviceType": "imported",
+    }
+  },
+  "auth": {
+    "dynamocxerrabef5d10": {
+      "service": "Cognito",
       "providerPlugin": "awscloudformation",
-      "dependsOn": []
+      "dependsOn": [],
+      "customAuth": false,
+      "frontendAuthConfig": {
+        "socialProviders": [],
+        "usernameAttributes": [],
+        "signupAttributes": [
+          "EMAIL"
+        ],
+        "passwordProtectionSettings": {
+          "passwordPolicyMinLength": 8,
+          "passwordPolicyCharacters": []
+        },
+        "mfaConfiguration": "OFF",
+        "mfaTypes": [
+          "SMS"
+        ],
+        "verificationMechanisms": [
+          "EMAIL"
+        ]
+      }
     }
   }
 }
